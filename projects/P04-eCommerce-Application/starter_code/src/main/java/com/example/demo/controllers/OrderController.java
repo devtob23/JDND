@@ -28,14 +28,13 @@ public class OrderController {
 	
 	@Autowired
 	private OrderRepository orderRepository;
-	private static final Logger log = LoggerFactory.getLogger(UserController.class);
-
+	private static final Logger log = LoggerFactory.getLogger(OrderController.class);
 
 	@PostMapping("/submit/{username}")
 	public ResponseEntity<UserOrder> submit(@PathVariable String username) {
 		User user = userRepository.findByUsername(username);
 		if(user == null) {
-			log.error("Error with the user. Cannot find the user in DB", userRepository.findByUsername(username));
+			log.error("Cant submit order for this user");
 			return ResponseEntity.notFound().build();
 		}
 		UserOrder order = UserOrder.createFromCart(user.getCart());
@@ -48,7 +47,7 @@ public class OrderController {
 	public ResponseEntity<List<UserOrder>> getOrdersForUser(@PathVariable String username) {
 		User user = userRepository.findByUsername(username);
 		if(user == null) {
-			log.error("Error with the user. Cannot find the user in DB", userRepository.findByUsername(username));
+			log.error("Error with the user. Cannot find the user in DB");
 			return ResponseEntity.notFound().build();
 		}
 		log.info("User found " +  userRepository.findByUsername(username));

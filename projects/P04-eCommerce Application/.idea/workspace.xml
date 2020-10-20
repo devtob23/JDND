@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:exercises" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:exercises" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:c4---testing" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:exercises" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:c4---testing" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:starter-code" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fd9a7b6-ef0e-4c82-ade1-0ad42d9d6752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="270" key="GridCell.Tab.0.bottom" timestamp="1603213282297">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="270" key="GridCell.Tab.0.bottom/47.23.1745.1097/1792.23.1920.1057@1792.23.1920.1057" timestamp="1603213282297" />
+    <state width="1878" height="270" key="GridCell.Tab.0.center" timestamp="1603213282297">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="270" key="GridCell.Tab.0.center/47.23.1745.1097/1792.23.1920.1057@1792.23.1920.1057" timestamp="1603213282297" />
+    <state width="1878" height="270" key="GridCell.Tab.0.left" timestamp="1603213282297">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="270" key="GridCell.Tab.0.left/47.23.1745.1097/1792.23.1920.1057@1792.23.1920.1057" timestamp="1603213282297" />
+    <state width="1878" height="270" key="GridCell.Tab.0.right" timestamp="1603213282297">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="270" key="GridCell.Tab.0.right/47.23.1745.1097/1792.23.1920.1057@1792.23.1920.1057" timestamp="1603213282297" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.http.ResponseEntity" memberName="body" />
+        <PinnedItemInfo parentTag="org.springframework.http.ResponseEntity" memberName="status" />
+        <PinnedItemInfo parentTag="com.example.demo.model.persistence.UserOrder" memberName="user" />
+        <PinnedItemInfo parentTag="org.springframework.http.HttpStatus" memberName="reasonPhrase" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auth_course$CartControllerTest_testAddTocart.ic" NAME="CartControllerTest.testAddTocart Coverage Results" MODIFIED="1603129288388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$CartControllerTest_and_3_more.ic" NAME="CartControllerTest and 3 more Coverage Results" MODIFIED="1603195601946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/auth_course$SareetaApplication.ic" NAME="SareetaApplication Coverage Results" MODIFIED="1603124320988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest.ic" NAME="UserControllerTest Coverage Results" MODIFIED="1603128759999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$CartControllerTest_removeItemFromCart.ic" NAME="CartControllerTest.removeItemFromCart Coverage Results" MODIFIED="1603181341458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest_create_user_happy_path.ic" NAME="UserControllerTest.create_user_happy_path Coverage Results" MODIFIED="1602843336868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1603194875036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+  </component>
+</project>

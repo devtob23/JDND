@@ -1,30 +1,51 @@
-2020-10-20T15:03:55.724+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 7651 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
-2020-10-20T15:03:55.730+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2020-10-20T15:03:55.731+0200 INFO No active profile set, falling back to default profiles: default
-2020-10-20T15:03:58.453+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
-2020-10-20T15:03:58.939+0200 INFO Started SareetaApplication in 3.414 seconds (JVM running for 4.192)
-2020-10-20T15:04:05.048+0200 INFO User successfully create with username Sareetaa
-2020-10-20T15:05:46.600+0200 INFO User successfully create with username Sareetaa2
-2020-10-20T15:07:30.022+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 9550 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
-2020-10-20T15:07:30.028+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2020-10-20T15:07:30.030+0200 INFO No active profile set, falling back to default profiles: default
-2020-10-20T15:07:32.722+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
-2020-10-20T15:07:33.236+0200 INFO Started SareetaApplication in 3.434 seconds (JVM running for 4.107)
-2020-10-20T15:09:53.781+0200 DEBUG Request is to process authentication
-2020-10-20T16:05:41.317+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 45490 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
-2020-10-20T16:05:41.324+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2020-10-20T16:05:41.325+0200 INFO No active profile set, falling back to default profiles: default
-2020-10-20T16:05:44.251+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
-2020-10-20T16:05:44.750+0200 INFO Started SareetaApplication in 3.733 seconds (JVM running for 4.508)
-2020-10-20T16:06:24.769+0200 INFO User successfully create with username username
-2020-10-20T16:06:30.081+0200 INFO User successfully create with username username1
-2020-10-20T16:06:33.116+0200 INFO User successfully create with username username2
-2020-10-20T16:06:36.503+0200 INFO User successfully create with username username3
-2020-10-20T16:06:39.429+0200 INFO User successfully create with username username4
-2020-10-20T16:06:43.079+0200 INFO User successfully create with username username5
-2020-10-20T16:06:51.115+0200 INFO User successfully create with username username6
-2020-10-20T16:06:54.557+0200 INFO User successfully create with username username7
-2020-10-20T16:06:58.025+0200 INFO User successfully create with username username8
-2020-10-20T16:07:03.376+0200 INFO User successfully create with username username9
-2020-10-20T16:07:06.617+0200 INFO User successfully create with username username0
-2020-10-20T16:14:09.659+0200 INFO User successfully create with username 12e32rr32
+2020-10-20T23:06:22.771+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.fritz.box with PID 55515 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce-Application)
+2020-10-20T23:06:22.778+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T23:06:22.778+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T23:06:25.946+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T23:06:26.453+0200 INFO Started SareetaApplication in 3.912 seconds (JVM running for 4.627)
+2020-10-20T23:07:14.967+0200 INFO User successfully create with username lange
+2020-10-20T23:07:37.877+0200 ERROR Error with user password. Cannot create user lange
+2020-10-20T23:07:51.025+0200 ERROR Error with user password. Cannot create user peter
+2020-10-20T23:08:23.080+0200 DEBUG Request is to process authentication
+2020-10-20T23:08:27.067+0200 DEBUG Request is to process authentication
+2020-10-20T23:09:37.632+0200 DEBUG Request is to process authentication
+2020-10-20T23:12:05.895+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.fritz.box with PID 59030 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce-Application)
+2020-10-20T23:12:05.899+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T23:12:05.900+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T23:12:08.746+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T23:12:09.256+0200 INFO Started SareetaApplication in 3.567 seconds (JVM running for 4.18)
+2020-10-20T23:14:34.040+0200 ERROR Error with user. Cannot create user fritz
+2020-10-20T23:14:34.041+0200 ERROR Error with user-password. Cannot create user testpassword
+2020-10-20T23:14:49.532+0200 INFO User successfully create with username fritz
+2020-10-20T23:17:55.608+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.fritz.box with PID 62601 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce-Application)
+2020-10-20T23:17:55.614+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T23:17:55.614+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T23:17:58.448+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T23:17:58.941+0200 INFO Started SareetaApplication in 3.564 seconds (JVM running for 4.194)
+2020-10-20T23:35:07.316+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.fritz.box with PID 73002 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce-Application)
+2020-10-20T23:35:07.321+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T23:35:07.321+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T23:35:10.235+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T23:35:10.782+0200 INFO Started SareetaApplication in 3.672 seconds (JVM running for 4.293)
+2020-10-20T23:42:36.386+0200 INFO User successfully create with username lange
+2020-10-20T23:42:51.238+0200 ERROR Password is empty
+2020-10-20T23:42:51.239+0200 ERROR Password to short}
+2020-10-20T23:42:51.239+0200 ERROR Doesnt match
+2020-10-20T23:42:53.386+0200 ERROR Password is empty
+2020-10-20T23:42:53.386+0200 ERROR Password to short}
+2020-10-20T23:42:53.386+0200 ERROR Doesnt match
+2020-10-20T23:43:01.986+0200 ERROR Password is empty
+2020-10-20T23:43:01.986+0200 ERROR Password to short}
+2020-10-20T23:43:01.987+0200 ERROR Doesnt match
+2020-10-20T23:43:03.114+0200 ERROR Password is empty
+2020-10-20T23:43:03.114+0200 ERROR Password to short}
+2020-10-20T23:43:03.114+0200 ERROR Doesnt match
+2020-10-20T23:43:07.824+0200 INFO User successfully create with username fritz
+2020-10-20T23:43:53.621+0200 DEBUG Request is to process authentication
+2020-10-20T23:44:15.590+0200 INFO Successfully added to Cart
+2020-10-20T23:45:14.438+0200 ERROR Cant find this item
+2020-10-20T23:45:21.274+0200 ERROR Cant find this item
+2020-10-20T23:45:27.511+0200 ERROR Cant find this item
+2020-10-20T23:45:38.187+0200 ERROR Cant find this item
+2020-10-20T23:45:42.991+0200 ERROR Cant find this item
+2020-10-20T23:45:48.894+0200 INFO Successfully added to Cart

@@ -57,7 +57,10 @@ public class UserController {
 		user.setCart(cart);
 		if(createUserRequest.getPassword() == null || createUserRequest.getPassword().length() < 7 ||
 				!createUserRequest.getPassword().equals(createUserRequest.getConfirmPassword())) {
-			log.error("Error with user password. Cannot create user {}", createUserRequest.getUsername());
+			log.error("Password is empty", createUserRequest.getPassword());
+			log.error("Password to short}",  createUserRequest.getPassword().length() < 7 );
+			log.error("Doesnt match",  !createUserRequest.getPassword().equals(createUserRequest.getConfirmPassword()));
+
 			return ResponseEntity.badRequest().build();
 		}
 		user.setPassword(bCryptPasswordEncoder.encode(createUserRequest.getPassword()));

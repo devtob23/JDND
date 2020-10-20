@@ -21,7 +21,7 @@ public class ItemController {
 	@Autowired
 	private ItemRepository itemRepository;
 
-	private static final Logger log = LoggerFactory.getLogger(UserController.class);
+	private static final Logger log = LoggerFactory.getLogger(ItemController.class);
 
 
 	@GetMapping
