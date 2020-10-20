@@ -1,0 +1,30 @@
+2020-10-20T15:03:55.724+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 7651 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
+2020-10-20T15:03:55.730+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T15:03:55.731+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T15:03:58.453+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T15:03:58.939+0200 INFO Started SareetaApplication in 3.414 seconds (JVM running for 4.192)
+2020-10-20T15:04:05.048+0200 INFO User successfully create with username Sareetaa
+2020-10-20T15:05:46.600+0200 INFO User successfully create with username Sareetaa2
+2020-10-20T15:07:30.022+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 9550 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
+2020-10-20T15:07:30.028+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T15:07:30.030+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T15:07:32.722+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T15:07:33.236+0200 INFO Started SareetaApplication in 3.434 seconds (JVM running for 4.107)
+2020-10-20T15:09:53.781+0200 DEBUG Request is to process authentication
+2020-10-20T16:05:41.317+0200 INFO Starting SareetaApplication on Tos-MacBook-Pro.lyth.local with PID 45490 (started by lange in /Users/lange/git/Udacity Spring/Lesson 4/JDND/projects/P04-eCommerce Application)
+2020-10-20T16:05:41.324+0200 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-10-20T16:05:41.325+0200 INFO No active profile set, falling back to default profiles: default
+2020-10-20T16:05:44.251+0200 DEBUG Filter 'JWTAuthenticationVerificationFilter' configured for use
+2020-10-20T16:05:44.750+0200 INFO Started SareetaApplication in 3.733 seconds (JVM running for 4.508)
+2020-10-20T16:06:24.769+0200 INFO User successfully create with username username
+2020-10-20T16:06:30.081+0200 INFO User successfully create with username username1
+2020-10-20T16:06:33.116+0200 INFO User successfully create with username username2
+2020-10-20T16:06:36.503+0200 INFO User successfully create with username username3
+2020-10-20T16:06:39.429+0200 INFO User successfully create with username username4
+2020-10-20T16:06:43.079+0200 INFO User successfully create with username username5
+2020-10-20T16:06:51.115+0200 INFO User successfully create with username username6
+2020-10-20T16:06:54.557+0200 INFO User successfully create with username username7
+2020-10-20T16:06:58.025+0200 INFO User successfully create with username username8
+2020-10-20T16:07:03.376+0200 INFO User successfully create with username username9
+2020-10-20T16:07:06.617+0200 INFO User successfully create with username username0
+2020-10-20T16:14:09.659+0200 INFO User successfully create with username 12e32rr32
